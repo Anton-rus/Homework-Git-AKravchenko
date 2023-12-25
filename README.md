@@ -29,8 +29,7 @@
 
 ### Задание 2
 
-`При необходимости прикрепитe сюда скриншоты
-
+1. https://github.com/Anton-rus/netology-repo/blob/main/.gitignore 
 
 
 ---
