@@ -35,4 +35,4 @@
 ---
 ### Задание 3
 
-
+1.![Screenshot Lesson 1](https://github.com/Anton-rus/Homework-Git-AKravchenko/blob/main/lessons_screenshots/Lesson%203.png)
