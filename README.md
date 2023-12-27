@@ -27,10 +27,10 @@
 2. ![Screenshot Lesson 1](https://github.com/Anton-rus/Homework-Git-AKravchenko/blob/main/Lesson%201.2.png)
 3. ![Screenshot Lesson 1](https://github.com/Anton-rus/Homework-Git-AKravchenko/blob/main/Lesson%201.3.png)
 4. ![Screenshot Lesson 1](https://github.com/Anton-rus/Homework-Git-AKravchenko/blob/main/Lesson%201.4.png)
-5. ![Screenshot Lesson 1](https://github.com/Anton-rus/Homework-Git-AKravchenko/blob/main/Lesson%201.5.png))
+5. ![Screenshot Lesson 1](https://github.com/Anton-rus/Homework-Git-AKravchenko/blob/main/Lesson%201.5.png)
 
 ### Задание 2
-
+ 1. ![Screenshot Lesson 1](https://github.com/Anton-rus/Homework-Git-AKravchenko/blob/main/lessons_screenshots/Lesson%202.1.png)
 
 ---
 
