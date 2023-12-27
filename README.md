@@ -25,7 +25,7 @@
 ### Задание 1
 
 
-1. https://github.com/Anton-rus/netology-repo/blob/main/README.md
+1. ![Screenshot Lesson 3](https://github.com/Anton-rus/Homework-Git-AKravchenko/blob/main/Lesson%201.1.png) 
 
 ### Задание 2
 
