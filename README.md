@@ -1,4 +1,4 @@
-# Домашнее задание к занятию "`GIT`" - `Антон Кравченко`
+# Домашнее задание к занятию "`CI/CD`" - `Антон Кравченко`
 
 
 ### Инструкция по выполнению домашнего задания
@@ -16,26 +16,24 @@
    
 Желаем успехов в выполнении домашнего задания!
    
-### Дополнительные материалы, которые могут быть полезны для выполнения задания
 
-1. [Руководство по оформлению Markdown файлов](https://gist.github.com/Jekins/2bf2d0638163f1294637#Code)
 
 ---
 
 ### Задание 1
 
 
-1. ![Screenshot Lesson 3](https://github.com/Anton-rus/Homework-Git-AKravchenko/blob/main/Lesson%201.1.png) 
+1. ![Screenshot Lesson 1](https://github.com/Anton-rus/Homework-Git-AKravchenko/blob/main/Lesson%201.1.png)
+2. ![Screenshot Lesson 1](https://github.com/Anton-rus/Homework-Git-AKravchenko/blob/main/Lesson%201.2.png)
+3. ![Screenshot Lesson 1](https://github.com/Anton-rus/Homework-Git-AKravchenko/blob/main/Lesson%201.3.png)
+4. ![Screenshot Lesson 1](https://github.com/Anton-rus/Homework-Git-AKravchenko/blob/main/Lesson%201.4.png)
+5. ![Screenshot Lesson 1](https://github.com/Anton-rus/Homework-Git-AKravchenko/blob/main/Lesson%201.5.png))
 
 ### Задание 2
-
-1. https://github.com/Anton-rus/netology-repo/blob/main/.gitignore 
 
 
 ---
 
 ### Задание 3
 
-`При необходимости прикрепитe сюда скриншоты
-![Screenshot Lesson 3](https://github.com/Anton-rus/Homework-Git-AKravchenko/blob/main/Lesson%203.png) 
 
