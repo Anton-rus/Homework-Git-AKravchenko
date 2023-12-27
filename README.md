@@ -31,9 +31,8 @@
 
 ### Задание 2
  1. ![Screenshot Lesson 1](https://github.com/Anton-rus/Homework-Git-AKravchenko/blob/main/lessons_screenshots/Lesson%202.1.png)
-
+ 2. ![Screenshot Lesson 1](https://github.com/Anton-rus/Homework-Git-AKravchenko/blob/main/lessons_screenshots/Lesson%202.2.png)  
 ---
-
 ### Задание 3
 
 
