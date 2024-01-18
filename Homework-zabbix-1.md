@@ -33,8 +33,9 @@
 
 
 ### Задание 2
- 1. ![Screenshot Lesson 1](https://github.com/Anton-rus/Homework-Git-AKravchenko/blob/main/lessons_screenshots/Lesson%202.1.png)
- 2. ![Screenshot Lesson 1](https://github.com/Anton-rus/Homework-Git-AKravchenko/blob/main/lessons_screenshots/Lesson%202.2.png)  
+![Screenshot Lesson 2](https://github.com/Anton-rus/Homework-Git-AKravchenko/blob/main/img/Zabbix%202.1.png)
+![Screenshot Lesson 2](https://github.com/Anton-rus/Homework-Git-AKravchenko/blob/main/img/Zabbix%202.2.png)
+![Screenshot Lesson 3](https://github.com/Anton-rus/Homework-Git-AKravchenko/blob/main/img/Zabbix%202.3.png).
 ---
 ### Задание 3
 
