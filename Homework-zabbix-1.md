@@ -33,10 +33,17 @@
 
 
 ### Задание 2
+Установите Zabbix Agent на два хоста.
+
+Процесс выполнения
+Выполняя ДЗ, сверяйтесь с процессом отражённым в записи лекции.
+Установите Zabbix Agent на 2 вирт.машины, одной из них может быть ваш Zabbix Server.
+Добавьте Zabbix Server в список разрешенных серверов ваших Zabbix Agentов.
+Добавьте Zabbix Agentов в раздел Configuration > Hosts вашего Zabbix Servera.
+Проверьте, что в разделе Latest Data начали появляться данные с добавленных агентов.
+
 ![Screenshot Lesson 2](https://github.com/Anton-rus/Homework-Git-AKravchenko/blob/main/img/Zabbix%202.1.png)
 ![Screenshot Lesson 2](https://github.com/Anton-rus/Homework-Git-AKravchenko/blob/main/img/Zabbix%202.2.png)
 ![Screenshot Lesson 3](https://github.com/Anton-rus/Homework-Git-AKravchenko/blob/main/img/Zabbix%202.3.png).
 ---
-### Задание 3
 
-1.![Screenshot Lesson 1](https://github.com/Anton-rus/Homework-Git-AKravchenko/blob/main/lessons_screenshots/Lesson%203.png)
