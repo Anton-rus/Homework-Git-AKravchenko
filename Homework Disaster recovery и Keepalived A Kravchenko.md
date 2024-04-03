@@ -30,7 +30,7 @@
 
 1. ![Screenshot Lesson 1](https://github.com/Anton-rus/Homework-Git-AKravchenko/blob/340feb9f5d4bee1a53a5f8274ddbb086422f908c/lessons_screenshots/Disaster%20recovery%20%D0%B8%20Keepalived%20Lesson%201.1.1.png)
 2. ![Screenshot Lesson 1](https://github.com/Anton-rus/Homework-Git-AKravchenko/blob/340feb9f5d4bee1a53a5f8274ddbb086422f908c/lessons_screenshots/Disaster%20recovery%20%D0%B8%20Keepalived%20Lesson%201.1.2.png)
-3. ![Screenshot Lesson 1](https://github.com/Anton-rus/Homework-Git-AKravchenko/blob/340feb9f5d4bee1a53a5f8274ddbb086422f908c/lessons_screenshots/Disaster%20recovery%20%D0%B8%20Keepalived%20Lesson%201.1.pkt)
+3. ![Lesson_1.pkt](https://github.com/Anton-rus/Homework-Git-AKravchenko/blob/340feb9f5d4bee1a53a5f8274ddbb086422f908c/lessons_screenshots/Disaster%20recovery%20%D0%B8%20Keepalived%20Lesson%201.1.pkt)
 
 ### Задание 2
  1. ![Screenshot Lesson 1](https://github.com/Anton-rus/Homework-Git-AKravchenko/blob/340feb9f5d4bee1a53a5f8274ddbb086422f908c/lessons_screenshots/Disaster%20recovery%20%D0%B8%20Keepalived%20Lesson%201.2.1.png)
