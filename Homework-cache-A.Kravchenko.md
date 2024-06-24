@@ -11,7 +11,7 @@
 ### Задание 2. Memcached
 Установите и запустите memcached.
 
-(https://github.com/Anton-rus/Homework-Git-AKravchenko/blob/main/memcached%20and%20redis%201.1.png)
+!(https://github.com/Anton-rus/Homework-Git-AKravchenko/blob/main/memcached%20and%20redis%201.1.png)
 
 Приведите скриншот systemctl status memcached, где будет видно, что memcached запущен.
 
