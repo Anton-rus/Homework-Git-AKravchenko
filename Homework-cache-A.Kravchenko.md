@@ -15,9 +15,9 @@
 
 ### Задание 3. Удаление по TTL в Memcached
 Запишите в memcached несколько ключей с любыми именами и значениями, для которых выставлен TTL 5. 
-![Screenshot 2 ] (https://github.com/Anton-rus/Homework-Git-AKravchenko/blob/main/memcached%20and%20redis%202.1.png)
-![Screenshot 3 ] (https://github.com/Anton-rus/Homework-Git-AKravchenko/blob/main/memcached%20and%20redis%202.2.png)
+![Screenshot 2 ](https://github.com/Anton-rus/Homework-Git-AKravchenko/blob/main/memcached%20and%20redis%202.1.png)
+![Screenshot 3 ](https://github.com/Anton-rus/Homework-Git-AKravchenko/blob/main/memcached%20and%20redis%202.2.png)
 
 ### Задание 4. Запись данных в Redis
 Запишите в Redis несколько ключей с любыми именами и значениями.
-! [Screenshot 5] (https://github.com/Anton-rus/Homework-Git-AKravchenko/blob/main/memcached%20and%20redis%203.1.png) 
+! [Screenshot 5](https://github.com/Anton-rus/Homework-Git-AKravchenko/blob/main/memcached%20and%20redis%203.1.png) 
