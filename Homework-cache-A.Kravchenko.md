@@ -20,4 +20,4 @@
 
 ### Задание 4. Запись данных в Redis
 Запишите в Redis несколько ключей с любыми именами и значениями.
-! [Screenshot 5](https://github.com/Anton-rus/Homework-Git-AKravchenko/blob/main/memcached%20and%20redis%203.1.png) 
+![Screenshot 5](https://github.com/Anton-rus/Homework-Git-AKravchenko/blob/main/memcached%20and%20redis%203.1.png) 
