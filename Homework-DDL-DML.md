@@ -32,27 +32,23 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 
 1.8. При работе в IDE сформируйте ER-диаграмму получившейся базы данных. При работе в командной строке используйте команду для получения всех таблиц базы данных. (скриншот)
 
+Скриншот: 
+ ![Screenshot Lesson 1](https://github.com/Anton-rus/Homework-Git-AKravchenko/blob/main/lessons_screenshots/DDL%2CDML%201.8.png)
+
 Результатом работы должны быть скриншоты обозначенных заданий, а также простыня со всеми запросами.
 
+Все запросы: 
 
+ ![Screenshot Lesson 1](https://github.com/Anton-rus/Homework-Git-AKravchenko/blob/main/lessons_screenshots/DDL%2CDML%20All%20commands.png)
+ ![Screenshot Lesson 1](https://github.com/Anton-rus/Homework-Git-AKravchenko/blob/main/lessons_screenshots/DDL%2C%20DML%20All%20commands%202.png)
 
 
 ### Задание 2
-Написать скрипт и настроить задачу на регулярное резервное копирование домашней директории пользователя с помощью rsync и cron.
-Резервная копия должна быть полностью зеркальной
-Резервная копия должна создаваться раз в день, в системном логе должна появляться запись об успешном или неуспешном выполнении операции
-Резервная копия размещается локально, в директории /tmp/backup
-На проверку направить файл crontab и скриншот с результатом работы утилиты.
+Составьте таблицу, используя любой текстовый редактор или Excel, в которой должно быть два столбца: в первом должны быть названия таблиц восстановленной базы, во втором названия первичных ключей этих таблиц. Пример: (скриншот/текст)
 
-Логи
+Название таблицы | Название первичного ключа
+customer         | customer_id
 
+ ![Screenshot Lesson 1](https://github.com/Anton-rus/Homework-Git-AKravchenko/blob/main/lessons_screenshots/DDL%2C%20DML%202.png)
 
-
-Скрипт 
-
- 1. ![Screenshot Lesson 1](https://github.com/Anton-rus/Homework-Git-AKravchenko/blob/69c15b74bfed4c28dc0ee0bc09613122ad5b4a17/lessons_screenshots/Rsync%202.2.png)
-
-Crontab 
-
- 1. ![Screenshot Lesson 1](https://github.com/Anton-rus/Homework-Git-AKravchenko/blob/69c15b74bfed4c28dc0ee0bc09613122ad5b4a17/lessons_screenshots/Rsync%202.3.png)
 ---
