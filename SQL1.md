@@ -1,4 +1,4 @@
-# Домашнее задание к занятию "Работа с данными (DDL/DML)" - `Антон Кравченко`
+# Домашнее задание к занятию "SQL.1" - `Антон Кравченко`
 
 
 ### Инструкция по выполнению домашнего задания
@@ -6,13 +6,13 @@
 Задание 1
 Получите уникальные названия районов из таблицы с адресами, которые начинаются на “K” и заканчиваются на “a” и не содержат пробелов.
 
-![Screenshot Lesson 1](https://github.com/Anton-rus/Homework-Git-AKravchenko/blob/main/lessons_screenshots/SQL1-1.png)
+![Screenshot Lesson 1](https://github.com/Anton-rus/Homework-Git-AKravchenko/blob/main/lessons_screenshots/SQL1-1(new).png)
 
 
 Задание 2
 Получите из таблицы платежей за прокат фильмов информацию по платежам, которые выполнялись в промежуток с 15 июня 2005 года по 18 июня 2005 года включительно и стоимость которых превышает 10.00.
 
-![Screenshot Lesson 1](https://github.com/Anton-rus/Homework-Git-AKravchenko/blob/main/lessons_screenshots/SQL1-2.png)
+![Screenshot Lesson 1](https://github.com/Anton-rus/Homework-Git-AKravchenko/blob/main/lessons_screenshots/SQL1-2(new).png)
 
 Задание 3
 Получите последние пять аренд фильмов.
